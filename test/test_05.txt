@@ -1,0 +1,24 @@
+one is I
+five is V
+ten is X
+fifty is L
+five one Silver is 48 Credits
+fifty ten five one Gold is 132 Credits
+ten ten ten five one Iron is 36 Credits
+how much is Silver ?
+how many Credits is Silver ?
+how much is Gold ?
+how many Credits is Gold ?
+how much is Iron ?
+how many Credits is Iron ?
+how much is one ?
+how many Credits is one ?
+how much is five ?
+how many Credits is five ?
+how much is ten ?
+how many Credits is ten ?
+how much is fifty ?
+how many Credits is fifty ?
+how much is Silver ten five ?
+how many Credits is Silver ?
+how much is Gold ten five ?

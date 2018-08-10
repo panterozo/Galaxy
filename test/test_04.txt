@@ -1,0 +1,14 @@
+glob is I
+prok is V
+pish is X
+tegj is L
+glob glob Silver is 34 Credits
+glob prok Gold is 57800 Credits
+pish pish Iron is 3910 Credits
+how many Credits is glob Silver ?
+how many Credits is Iron ?
+how much is Gold ?
+how many Credits is Gold ?
+how many Credits is glob Silver ?
+how much is Gold pish prok ?
+how much is Gold prok pish ?

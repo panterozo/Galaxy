@@ -1,0 +1,15 @@
+abc is I
+pep is V
+quot is X
+cuat is L
+abc pep Silver is 24 Credits
+quot abc pep Gold is 10 Credits
+cuat abc pep Iron is 10 Credits
+how much is quot abc pep ?
+how much is Silver ?
+how much is Gold ?
+how much is Iron ?
+how much is Iron quot ?
+how much is quot abc pep Silver ?
+how much is Gold Iron ?
+how much is quot Gold Iron ?
