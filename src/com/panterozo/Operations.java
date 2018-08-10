@@ -1,4 +1,5 @@
 package com.panterozo;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -7,6 +8,7 @@ import java.util.HashMap;
 
 public class Operations {
 
+	
 	private HashMap<String, String> definitionNumbers = new HashMap<String, String>();
 	private HashMap<String, String> definitionCalculated = new HashMap<String, String>();
 	
